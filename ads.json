@@ -1,0 +1,15 @@
+{
+    "testing": {
+        "gh_author": "mzico",
+        "gh_repo_path": "agama-test",
+        "project_name": "testing",
+        "version": "0.0.1",
+        "author": "mzico",
+        "author_website": "https://github.com/mzico/agama-test",
+        "github_uri": "https://github.com/mzico/agama-test",
+        "project_description": "test",
+        "license": "MIT",
+        "last_updated": "1678818678873",
+        "project_type": "community"
+    }
+}
